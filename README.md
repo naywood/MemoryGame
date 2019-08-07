@@ -11,6 +11,3 @@ User is presented with 12 images. In order to achieve the highest possible score
 - Materialize CSS
 - FontAwesome
 
-## Screenshots
-![Desktop]("Desktop")
-![Mobile]( "Mobile")
